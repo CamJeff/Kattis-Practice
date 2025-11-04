@@ -8,6 +8,7 @@
 | A Second Opinion | [Python 3](https://github.com/CamJeff/Kattis-Practice/blob/main/Code/secondopinion.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/secondopinion) |
 | A Shortcut to What? | [Python 3](https://github.com/CamJeff/Kattis-Practice/blob/main/Code/secondopinion.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shortcuttowhat) |
 | A Tale of Two Queues | [Python 3](https://github.com/CamJeff/Kattis-Practice/blob/main/Code/ataleoftwoqueues.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ataleoftwoqueues) |
+| A Terrible Fortress | [Python 3](https://github.com/CamJeff/Kattis-Practice/blob/main/Code/aterriblefortress.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aterriblefortress) |
 
 
 
